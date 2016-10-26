@@ -1,3 +1,24 @@
-<h1>
-  {{title}}
-</h1>
+<md-sidenav-layout>
+    <md-sidenav #start (open)="closeStartButton.focus()" mode="push">
+      Start Sidenav.
+      <br>
+      <button md-button #closeStartButton (click)="start.close()">Close</button>
+    </md-sidenav>
+    <!--
+    <md-sidenav #end align="end">
+      End Sidenav.
+      <button md-button (click)="end.close()">Close</button>
+    </md-sidenav>
+    -->
+
+    <md-toolbar color="primary">
+      <button md-icon-button (click)="start.open()">
+        <md-icon class="md-24">dehaze</md-icon>
+      </button>
+      <span>{{title}}</span>
+    </md-toolbar>
+
+    <!--
+    <button md-button (click)="end.open()">Open end sidenav</button>
+    -->
+</md-sidenav-layout>
