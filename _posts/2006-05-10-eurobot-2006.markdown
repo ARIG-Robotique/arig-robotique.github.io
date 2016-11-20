@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2006-05-10
+images:
+  - robots/2006/2006.png
+alt: image-alt
+project-date: Mai 2006
+category: Robotique
+description: Premier robot construit par l'association. Malheureusement celui-ci n'aura pas pu être homologué.
+
+---

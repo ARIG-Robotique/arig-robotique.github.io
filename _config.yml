@@ -2,8 +2,8 @@
 title: ARIG Robotique
 email: assoarig@gmail.com
 url: https://arig-robotique.github.io
-description: "ARIG Robotique est une association qui participe à la coupe de france de robotique."
-skills: "Developpement - Electronique - Mécanique"
+description: "ARIG Robotique est une association qui, principalement, participe à la coupe de france de robotique."
+skills: "Informatique - Electronique - Mécanique"
 meta_author: DEPUILLE Gregory
 
 # Google webmaster tools
@@ -49,7 +49,7 @@ address:
   - line: Chasse sur Rhône (38)
 
 # Credits content
-credits: 'A définir'
+credits: 'Gregory DEPUILLE'
 
 # Build settings
 markdown: kramdown
