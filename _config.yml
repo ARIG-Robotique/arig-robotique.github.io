@@ -32,8 +32,8 @@ color:
 # Footer settings
 footer:
   copyright: ARIG Robotique
-  location: Location
-  social: Around the Web
+  location: Localisation
+  social: Sur le web
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
