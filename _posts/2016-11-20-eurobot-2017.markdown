@@ -7,6 +7,6 @@ images:
 alt: image-alt
 project-date: Mai 2017
 category: Robotique
-description: Le theme de cette année et sorti et nous sommes paré à participer. De plus nous avons 3 nouvel recrus pour participer à cette aventure scientifique. Affaire à suivre.
+description: Le theme de cette année et sorti et nous sommes paré à participer. De plus nous avons 2 nouvel recrus pour participer à cette aventure scientifique. Affaire à suivre.
 
 ---
