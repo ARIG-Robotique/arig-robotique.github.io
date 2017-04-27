@@ -3,7 +3,8 @@ layout: default
 modal-id: 6
 date: 2016-11-20
 images:
-  - robots/2017/2017.png
+  - robots/2017/2017-principal.jpg
+  - robots/2017/2017-secondaire.jpg
 alt: image-alt
 project-date: Mai 2017
 category: Robotique
