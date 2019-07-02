@@ -18,6 +18,7 @@
                             <img src="img/{{ img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                             {% endfor %}
                             <p>{{ post.description }}</p>
+							{% if post.video %}<p><a href="{{ post.video }}">Vidéo de présentation</a></p>{% endif %}
                             <ul class="list-inline item-details">
                                 <li>Date: <strong><a href="#">{{ post.project-date }}</a></strong></li>
                                 <li>Service: <strong><a href="#">{{ post.category }}</a></strong></li>

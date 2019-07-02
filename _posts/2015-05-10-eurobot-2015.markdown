@@ -5,6 +5,7 @@ date: 2015-05-10
 images:
   - robots/2015/2015-principal.PNG
   - robots/2015/2015-secondaire.PNG
+video: https://www.youtube.com/watch?v=dnGYzpMWpNM
 alt: image-alt
 project-date: Mai 2015
 category: Robotique

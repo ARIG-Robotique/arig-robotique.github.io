@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 7
+date: 2019-07-02
+images:
+  - robots/2019/2019-gros-robot-hq.jpg
+  - robots/2019/2019-experience-hq.jpg
+  - robots/2019/2019-balise-hq.jpg
+video: https://www.youtube.com/watch?v=P0NQY9vYVtY
+alt: image-alt
+project-date: Mai 2019
+category: Robotique
+description: Cette année ARIG tente la vision assistée par ordinateur pour aider le robot à se repérer sur la table, non fonctionnelle au final mais parée pour les prochains concours.
+
+---

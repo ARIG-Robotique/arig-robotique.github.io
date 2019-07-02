@@ -5,6 +5,7 @@ date: 2016-11-20
 images:
   - robots/2017/2017-principal.jpg
   - robots/2017/2017-secondaire.jpg
+video: https://www.youtube.com/watch?v=YgdPiHH2toM&t=1s
 alt: image-alt
 project-date: Mai 2017
 category: Robotique
