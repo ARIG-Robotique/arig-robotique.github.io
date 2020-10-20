@@ -38,6 +38,8 @@ footer:
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: youtube
+    url: https://www.youtube.com/channel/UC2dR7GL6OoiTuTMyfrLjOpw
   - title: twitter
     url: http://twitter.com/arig_robotique
   - title: github
