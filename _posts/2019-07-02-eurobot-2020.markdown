@@ -1,0 +1,15 @@
+---
+layout: default
+modal-id: 7
+date: 2020-10-20
+images:
+  - robots/2020/2020-robot.png
+  - robots/2020/2020-phare.png
+  - robots/2020/2020-balise.png
+video: https://www.youtube.com/watch?v=xDQ6NkgI2jo
+alt: image-alt
+project-date: Octobre 2020
+category: Robotique
+description: Cette année nous concrétisons la vision assistée par ordinateur pour aider le robot à déterminer la présence des bouées sur la table et savoir dans quel port rentré en fin de match. Nous avons également ajouter une IHM au robot principal avec une gestion de stratégie.
+
+---
