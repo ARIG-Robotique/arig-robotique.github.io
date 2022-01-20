@@ -54,6 +54,12 @@ html {
   -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
 }
 
+.faulhaber-logo {
+  background-color: #001d37; 
+  padding-top: 25px; 
+  padding-left: 10px;
+}
+
 article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
   display: block;
 }
